@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/nehaprasad1/DSA/tree/master/0143-reorder-list) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nehaprasad1/DSA/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nehaprasad1/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nehaprasad1/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
